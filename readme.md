@@ -3,12 +3,12 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🎓 I'm a final-year **Computer Engineering** student with a deep interest in **blockchain**, **AI/ML**, and **full-stack development**  
-- 💡 I love turning ideas into real-world projects and have actively participated in Web3 & AI hackathons across the globe  
-- 🛠️ I build with **React, Node.js, Solidity, Move, Tailwind, Python, and MongoDB**  
-- 🌱 Currently exploring **Aptos**, **AI Agents**, **DeFi protocols**, and **Multi-chain smart contracts**
+-  I'm a final-year **Computer Engineering** student with a deep interest in **blockchain**, **AI/ML**, and **full-stack development**  
+-  I love turning ideas into real-world projects and have actively participated in Web3 & AI hackathons across the globe  
+-  I build with **React, Node.js, Solidity, Move, Tailwind, Python, and MongoDB**  
+-  Currently exploring **Aptos**, **AI Agents**, **DeFi protocols**, and **Multi-chain smart contracts**
 
 ---
 
